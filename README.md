@@ -1,0 +1,1 @@
+### I worked with a raw Netflix dataset to clean, transform, and analyze streaming content data using SQL (MySQL Workbench). This project helped me understand real-world data inconsistencies and taught me how to use SQL effectively for data wrangling and exploration.
